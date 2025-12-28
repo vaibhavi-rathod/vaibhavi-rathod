@@ -19,10 +19,11 @@ Backend & DevOps Engineer focused on building **scalable backend systems**, **cl
 
 ---
 
-## 🌐 Connect With Me
+## 🏆 Achievements
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhavi-rathod)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rathodvaibhavi18499@gmail.com)
+![AWS Certified](https://img.shields.io/badge/AWS-Certified-FF9900?style=for-the-badge&logo=amazonaws)
+![GCP Certified](https://img.shields.io/badge/GCP-Certified-4285F4?style=for-the-badge&logo=googlecloud)
+![Experience](https://img.shields.io/badge/Experience-4%2B%20Years-success?style=for-the-badge)
 
 ---
 
@@ -74,4 +75,9 @@ Backend & DevOps Engineer focused on building **scalable backend systems**, **cl
 
 ---
 
-![](https://visitcount.itsvg.in/api?id=vaibhavi-rathod&icon=0&color=0)
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhavi-rathod)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rathodvaibhavi18499@gmail.com)
+
+---
